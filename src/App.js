@@ -16,7 +16,7 @@ const App = () => {
             <div>Suscribete</div>
             <div>Notiias</div>
             <div>
-              <img className="w-10 h-10" src={buscar} />
+              <img className="w-10 h-10" src={buscar} alt="error" />
             </div>
           </div>
         </div>
