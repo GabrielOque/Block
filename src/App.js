@@ -24,6 +24,7 @@ const App = () => {
       <h1>Salgo del div padre</h1>
       <h1>Desde Main</h1>
       <di>Este lo hago desde el main local</di>
+      <di>Un cambio idiota</di>
     </>
   );
 };
