@@ -28,6 +28,7 @@ const App = () => {
         <di>Estoy en clase</di>
         <di>Cambios para el pull request</di>
         <di>Este es el segundo pull request</di>
+        <di>Agregamos mi nombre Gabriel Oquendo</di>
       </div>
     </>
   );
