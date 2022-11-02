@@ -20,13 +20,13 @@ const App = () => {
             </div>
           </div>
         </div>
+        <h1 className="text-black">Salgo del div padre</h1>
+        <h1>Desde Main</h1>
+        <di>Este lo hago desde el main local</di>
+        <di>Un cambio idiota</di>
+        <di>Te vi vainalndo</di>
+        <di>Estoy en clase</di>
       </div>
-      <h1 className="text-black">Salgo del div padre</h1>
-      <h1>Desde Main</h1>
-      <di>Este lo hago desde el main local</di>
-      <di>Un cambio idiota</di>
-      <di>Te vi vainalndo</di>
-      <di>Estoy en clase</di>
     </>
   );
 };
