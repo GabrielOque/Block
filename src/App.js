@@ -22,6 +22,7 @@ const App = () => {
         </div>
       </div>
       <h1>Salgo del div padre</h1>
+      <h1>Desde Main</h1>
     </>
   );
 };
