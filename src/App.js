@@ -26,6 +26,7 @@ const App = () => {
         <di>Un cambio idiota</di>
         <di>Te vi vainalndo</di>
         <di>Estoy en clase</di>
+        <di>Cambios para el pull request</di>
       </div>
     </>
   );
