@@ -23,6 +23,7 @@ const App = () => {
       </div>
       <h1>Salgo del div padre</h1>
       <h1>Desde Main</h1>
+      <di>Este lo hago desde el main local</di>
     </>
   );
 };
