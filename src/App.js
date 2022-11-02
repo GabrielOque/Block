@@ -26,6 +26,7 @@ const App = () => {
       <di>Este lo hago desde el main local</di>
       <di>Un cambio idiota</di>
       <di>Te vi vainalndo</di>
+      <di>Estoy en clase</di>
     </>
   );
 };
