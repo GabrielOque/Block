@@ -20,16 +20,7 @@ const App = () => {
             </div>
           </div>
         </div>
-        <h1 className="text-black">Salgo del div padre</h1>
-        <h1 className="text-3xl text-red-800">Desde Main</h1>
-        <di>Este lo hago desde el main local</di>
-        <di>Un cambio idiota</di>
-        <di>Te vi vainalndo</di>
-        <di>Estoy en clase</di>
-        <di>Cambios para el pull request</di>
-        <di>Este es el segundo pull request</di>
-        <di>Agregamos mi nombre Gabriel Oquendo</di>
-        <di>Quiero revisar si todo está bien</di>
+        <h>HOLA PUTITO, soy sebas he hice cambios</h> 
       </div>
     </>
   );
