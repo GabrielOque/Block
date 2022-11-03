@@ -29,6 +29,7 @@ const App = () => {
         <di>Cambios para el pull request</di>
         <di>Este es el segundo pull request</di>
         <di>Agregamos mi nombre Gabriel Oquendo</di>
+        <di>Quiero revisar si todo está bien</di>
       </div>
     </>
   );
