@@ -20,7 +20,10 @@ const App = () => {
             </div>
           </div>
         </div>
-        <h>HOLA PUTITO, soy sebas he hice cambios</h> 
+        <h>HOLA PUTITO, soy sebas he hice cambios</h>
+        <div className="w-20 h-20 text-3xl font-bold text-white bg-blue-700">
+          Este es mi aporte
+        </div>
       </div>
     </>
   );
