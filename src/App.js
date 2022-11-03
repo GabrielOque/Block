@@ -21,8 +21,11 @@ const App = () => {
           </div>
         </div>
         <h>HOLA PUTITO, soy sebas he hice cambios</h>
-        <div className="w-20 h-20 text-3xl font-bold text-white bg-blue-700">
+        <div className="w-30 h-50 text-3xl font-bold text-white bg-blue-700">
           Este es mi aporte
+        </div>
+        <div className="w=50 h-30 text-orange 300 bg-green-800 mt-6">
+          soy pendejo
         </div>
       </div>
     </>
