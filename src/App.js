@@ -21,7 +21,7 @@ const App = () => {
           </div>
         </div>
         <h1 className="text-black">Salgo del div padre</h1>
-        <h1 className="text-blue-800">Desde Main</h1>
+        <h1 className="text-3xl text-blue-800">Desde Main</h1>
         <di>Este lo hago desde el main local</di>
         <di>Un cambio idiota</di>
         <di>Te vi vainalndo</di>
